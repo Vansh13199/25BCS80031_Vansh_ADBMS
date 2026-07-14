@@ -1,3 +1,10 @@
+# Experiment 1
+
+**Name:** Vansh    
+**UID:** 25BCS80031
+
+---
+# Aim
 # Experiment: Hospital Database Data Population and Basic Retrieval
 
 ## Objective
