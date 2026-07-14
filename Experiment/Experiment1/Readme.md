@@ -4,8 +4,7 @@
 **UID:** 25BCS80031
 
 ---
-# Aim
-# Experiment: Hospital Database Data Population and Basic Retrieval
+# Aim: Hospital Database Data Population and Basic Retrieval
 
 ## Objective
 Insert sample data into hospital management tables and retrieve the first record from the first three tables.
