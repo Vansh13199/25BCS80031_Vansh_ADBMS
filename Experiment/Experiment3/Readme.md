@@ -51,6 +51,9 @@ GROUP BY department;
 | Biology    | 0                    |
 | English    | 0                    |
 
+**Output Screenshot:**  
+![Experiment 3.1 Output](./3.1.png)
+
 ---
 
 ## Experiment 3.2 — Aggregate Functions, GROUP BY, HAVING & DISTINCT
@@ -186,6 +189,9 @@ SELECT DISTINCT emp_city
 FROM   employees;
 ```
 
+**Output Screenshot:**  
+![Experiment 3.2 Output](./3.2.png)
+
 ---
 
 ## Experiment 3.3 — Customers Who Never Order (Subquery with NOT IN)
@@ -240,6 +246,10 @@ WHERE  id NOT IN (SELECT customerId FROM Orders);
 ### Result
 
 **Status:** ✅ Accepted (Runtime: 113 ms)
+
+**Output Screenshots:**  
+![Experiment 3.3 Output](./3.3.png)  
+![Experiment 3.4 Output](./3.4.png)
 
 ---
 
