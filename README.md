@@ -1,6 +1,6 @@
 # 📚 Advanced Database Management Systems (ADBMS)
 
-> **Student:** Vansh Kislay — `25BCS80031`  
+> **Student:** Vansh — `25BCS80031`  
 > **Course:** Advanced Database Management Systems
 
 A comprehensive repository of SQL experiments, homework assignments, and coursework for the ADBMS course. Each module covers core database concepts — from basic CRUD and set operations to aggregate functions, subqueries, and data modelling.
