@@ -1,7 +1,13 @@
--- Write a query to do the following:
-
--- FULL OUTER JOIN the 'student' and 'course' tables using 'Course_id' to match the tables. Output the joined table.
-
-select * from student
-full outer join course
-on student.Course_id=course.Course_id;
+/* Write a query to do the following:
+ - JOIN the tables 'student' and 'course' using 'Course_id' to match both the tables and output the joined table.
+ - LEFT JOIN the tables 'student' and 'course' using 'Course_id' to match both the tables and output the joined table. */
+ 
+ select * 
+ from student 
+ join course 
+ on student.Course_id=course.Course_id;
+ 
+ select * 
+ from student 
+ left join course 
+ on student.Course_id=course.Course_id;
